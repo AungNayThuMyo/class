@@ -1,5 +1,5 @@
 fun main() {
     println("Hello World!")
     println("my student id is m24w0125!")
-    println("my NAME IS AUNG NAY THU MYO")
+    println("@KCGImy NAME IS AUNG NAY THU MYO")
 }
